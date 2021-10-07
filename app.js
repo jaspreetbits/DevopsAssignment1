@@ -9,7 +9,7 @@ let no1 = parseFloat(res2.num1);
 let no2 = parseFloat(res2.num2);
 let result;
 if(op=='+'){
-	result=no1+no2;
+	  result=no1+no2;
 }
 console.log('answer:'+result);
 });
