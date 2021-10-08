@@ -1,5 +1,7 @@
 # DevOps_Assignment1
 
+*DevOp's Assignment for Group No 27*
+
 ## Group members:
 * Mahender Kumar
 * Sumana Saha
@@ -7,5 +9,4 @@
 * Jaspreet Singh
 * Charanjeet Singh
 
-*DevOP's Assignment Group No 27 *
 
