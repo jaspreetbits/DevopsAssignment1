@@ -5,7 +5,7 @@
 * Sumana Saha
 * Sagar SS
 * Jaspreet Singh
-* Charnajeet Singh
+* Charanjeet Singh
 
-*This a an Dev OPs Assignmentof Group No 27 *
+*DevOP's Assignment Group No 27 *
 
