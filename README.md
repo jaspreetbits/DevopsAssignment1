@@ -1,6 +1,6 @@
-# DevOps_Assignment1
+# DevOps Assignment-1
 
-*DevOp's Assignment-1 for Group no. 27*
+*This is repo for DevOp's Assignment-1 by Group no. 27*
 
 ## Group members:
 * Mahender Kumar
