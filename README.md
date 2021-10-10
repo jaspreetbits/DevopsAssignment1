@@ -1,6 +1,6 @@
 # DevOps_Assignment1
 
-*DevOp's Assignment for Group No 27*
+*DevOp's Assignment-1 for Group no. 27*
 
 ## Group members:
 * Mahender Kumar
